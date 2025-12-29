@@ -6,6 +6,9 @@ The system continuously understands a user’s profile, reasons over job-market 
 
 Unlike traditional career platforms that provide static recommendations, CIA behaves as a long-term career companion that improves with every interaction.
 
+Career Intelligence Agent is not just a recommendation system.
+It is a self-evolving career brain that learns from real outcomes and continuously guides users toward meaningful career progress.
+
 ---
 
 ## Problem Statement
